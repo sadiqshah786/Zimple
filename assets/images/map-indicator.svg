@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252" height="160.812" viewBox="0 0 252 160.812">
+  <defs>
+    <filter id="Union_6" x="0" y="0" width="252" height="160.812" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-color="#b9860e" flood-opacity="0.376"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="map-indicator" transform="translate(-1276 -4884)">
+    <g transform="matrix(1, 0, 0, 1, 1276, 4884)" filter="url(#Union_6)">
+      <path id="Union_6-2" data-name="Union 6" d="M2965.6,5274H2902a6,6,0,0,1-6-6v-53a6,6,0,0,1,6-6h162a6,6,0,0,1,6,6v53a6,6,0,0,1-6,6h-62.783l-17.811,17.811Z" transform="translate(-2857 -5169)" fill="#fdb813"/>
+    </g>
+    <text id="Zimple_Digital" data-name="Zimple
+Digital" transform="translate(1345 4932)" fill="#fff" font-size="20" font-family="SourceSansPro-SemiBold, Source Sans Pro" font-weight="600"><tspan x="-29.87" y="20">Zimple</tspan><tspan x="-27.96" y="42">Digital</tspan></text>
+  </g>
+</svg>
